@@ -1,0 +1,100 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+#head .current a{
+	color:#33A4FF;
+}
+#head a:hover{
+	color:brown;
+}
+#head{
+	background-image:linear-gradient(to top,#5f5f5f,black);
+	color:#ffffff;
+	padding:10px;
+	min-height:70px;
+	border-bottom:5px solid black;
+	border-top:5px solid black;
+	margin-bottom:0px;
+}
+#branding h1{
+	float:left;
+	font-family:Tekton Pro;
+	font-weight:bold;
+	font-size:70px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:50px;
+	padding:0px;
+}
+.header_design{
+	color:#33A4FF;
+}
+#head a{
+	color:#ffffff;
+	text-decoration:none;
+	font-size:20px;
+	font-family:Tekton Pro;
+}
+#head ul{
+	margin:0px;
+	padding:0px;
+}
+#head li{
+	float:left;	
+	list-style-type:none;
+	padding:0px 20px 0px 20px;
+}
+#head nav{
+	float:right;
+	margin-top:25px;
+	margin-right:20px;
+}
+
+
+
+
+footer{
+	background-image:linear-gradient(to top,#33A4FF,#0B0B61);
+	border-top:5px solid black;
+    border-bottom:5px solid black;
+	min-height:80px;
+	text-align:center;
+	font-family:Tekton Pro;
+	font-size:30px;
+    color:#ffffff;
+}
+footer div{
+	margin-top:25px;
+}
+#comp_mid{
+	margin-left:0px;
+	margin-right:0px;
+	height:570px;
+	
+	margin-top:0px;
+	/*opacity:0.7;*/
+}
+#about{
+	margin:10px 600px 0px 200px;
+	font-family:Tekton Pro;
+	font-size:25px;
+	padding-right:60px;
+	float:left;
+	
+}
+#con{
+	position:absolute;
+	right:200px;
+	top:107px;
+}
+#con h2{
+	text-align:center;
+	font-family:Tekton Pro;
+	font-size:40px;
+}
+#media{
+	width:100px;
+	height:30px;
+	padding-left:50px;
+}

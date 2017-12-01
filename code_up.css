@@ -1,0 +1,123 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+#head .current a{
+	color:#33A4FF;
+}
+#head a:hover{
+	color:brown;
+}
+#head{
+	background-image:linear-gradient(to top,#5f5f5f,black);
+	color:#ffffff;
+	padding:10px;
+	min-height:70px;
+	border-bottom:5px solid black;
+	border-top:5px solid black;
+	margin-bottom:0px;
+}
+#branding h1{
+	float:left;
+	font-family:Tekton Pro;
+	font-weight:bold;
+	font-size:70px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:50px;
+	padding:0px;
+}
+.header_design{
+	color:#33A4FF;
+}
+#head a{
+	color:#ffffff;
+	text-decoration:none;
+	font-size:20px;
+	font-family:Tekton Pro;
+}
+#head ul{
+	margin:0px;
+	padding:0px;
+}
+#head li{
+	float:left;	
+	list-style-type:none;
+	padding:0px 20px 0px 20px;
+}
+#head nav{
+	float:right;
+	margin-top:25px;
+	margin-right:20px;
+}
+
+
+
+
+footer{
+	background-image:linear-gradient(to top,#33A4FF,#0B0B61);
+	border-top:5px solid black;
+    border-bottom:5px solid black;
+	min-height:80px;
+	text-align:center;
+	font-family:Tekton Pro;
+	font-size:30px;
+    color:#ffffff;
+}
+footer div{
+	margin-top:25px;
+}
+#comp_mid{
+	margin-left:0px;
+	margin-right:0px;
+	height:570px;
+	background:url('image1.jpg') no-repeat 25px 0px; 
+	margin-top:0px;
+	/*opacity:0.7;*/
+}
+#comp_mid .head1{
+	margin-top:0px;
+	font-size:80px;
+	color:black;
+	text-align:center;
+	font-family:Tekton Pro;
+	padding-top:20px;
+}
+#outer{
+	padding:20px 400px 20px 400px;
+	font-family:Tekton Pro;
+	font-weight:bold;
+	font-size:20px;
+}
+#inner{
+	padding-left:220px;
+}
+#inner label{
+	float:left;
+	width:100px;
+	margin-left:0px;
+}
+#button1{
+	height:33px;
+	width:100px;
+	background-image:linear-gradient(to top,#33A4FF,#0B0B61);
+	position:absolute;
+	bottom:100px;
+	left:650px;
+	font-family:Tekton Pro;
+	font-size:20px;
+	padding:5px;
+	color:#ffffff;
+}
+#button2{
+	height:33px;
+	width:100px;
+		background-image:linear-gradient(to top,#33A4FF,#0B0B61);
+	position:absolute;
+	bottom:100px;
+	left:770px;
+	font-family:Tekton Pro;
+	font-size:20px;
+	padding:5px;
+	color:#ffffff;
+}
